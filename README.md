@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Safa Jazi, I majored in computer science, earned an engineer's degree in data science
-- 👀 I have a passion for using data to draw meaningful conclusions. I enjoy adapting to new programming languages and expanding my collection of tools for analyzing data.
+- 👀 I have a passion for using data to draw meaningful conclusions. I enjoy adapting to new programming languages and expanding my collection of tools for analyzing data(Sql,R,Python,Tableau,Excel)
 - 🌱 I’m currently learning machine learning and deep learning 
-- 💞️ I’m looking to expand my knowledge and grow my skills.
+- 💞️ I’m looking to get a real world data science experience
 - 📫 safadataanalyst@gmail.com
 
 <!---
